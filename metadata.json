@@ -1,0 +1,6 @@
+{
+  "name": "Medusa & Payload Multi-Vendor Marketplace",
+  "description": "A full-stack multi-vendor marketplace with split orders, custom commissions, dynamic theme block styling via Payload CMS, and Gemini AI assistant integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
